@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mallikarjun201/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mallikarjun201/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/mallikarjun201/DSA/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/mallikarjun201/DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mallikarjun201/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mallikarjun201/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/mallikarjun201/DSA/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/mallikarjun201/DSA/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
